@@ -1,5 +1,5 @@
 # FuncionesString
 
 
-<h1 >ddd</h1>
+Copia de las funciones string: STRCPY(), STRCMP(), STRLEN
 
